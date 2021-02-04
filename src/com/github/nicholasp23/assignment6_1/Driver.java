@@ -1,4 +1,4 @@
-package com.github.nicholasp.assignment6_1;
+package com.github.nicholasp23.assignment6_1;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
